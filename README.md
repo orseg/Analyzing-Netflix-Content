@@ -30,18 +30,17 @@ netflix.fillna(value="unknown", inplace = True) # fill NaNs with unknown
 
 The dataframe looks something like this --
 
-
+![](media/image1.png)
 
 **Let's start!**
 
 ## **Distribution of Genres**
 
-![](media/image4.png){width="7.643055555555556in"
-height="3.785744750656168in"}
+![](media/image2.png)
 
-![תמונה שמכילה טקסט, צילום מסך, תרשים, מקביל התיאור נוצר באופן
-אוטומטי](media/image5.png){width="7.780555555555556in"
-height="3.8541666666666665in"}
+![](media/image3.png)
+
+![](media/image4.png)
 
 As we can see from the graphs above, Most of Netflix content is
 International Movies and TV Shows. More than 2500 titles are
@@ -55,8 +54,7 @@ Movies and 2676 TV Shows. This data corresponds to the next Pie chart
 that shows that most of the content in Netflix are movies with 69.6% and
 30.4% are TV Shows.
 
-![](media/image6.png){width="3.4023523622047245in"
-height="3.2079319772528434in"}
+![](media/image5.png)
 
 ```python
 # Distribution of genres
@@ -114,22 +112,18 @@ plt.show()
 
 ## **Country of Origin**
 
-![](media/image7.png){width="2.50034886264217in"
-height="2.958746719160105in"}
+![](media/image6.png)
 
 In the first place we can see that US is dominating with 3690 titles and
 India in second place with 1046 titles.
 
 Let\'s take the top 5 countries and put them in a horizontal bar plot.
 
-![](media/image8.png){width="6.054798775153106in"
-height="3.4440135608048994in"}
+![](media/image7.png)
 
 Let\'s take a further look at the US for example:
 
-![תמונה שמכילה טקסט, צילום מסך, גופן, תרשים התיאור נוצר באופן
-אוטומטי](media/image9.png){width="3.3745778652668417in"
-height="3.4301268591426073in"}
+![](media/image8.png)
 
 We can see that 75% of the titles from the US are movies, 2752 titles to
 be exact and only 25% of the titles are tv shows (938 titles).
@@ -163,8 +157,7 @@ plt.title('Tv Shows and Movies from the US')
 
 ## **Distribution of Ratings**
 
-![](media/image10.png){width="6.134413823272091in"
-height="3.0384864391951005in"}
+![](media/image9.png)
 
 More than 3000 titles are marked as TV-MA rating which means that big
 portion of the titles in Netflix is mature content which the audience
@@ -185,8 +178,7 @@ plt.show()
 
 ## **Content added Over the Years**
 
-![](media/image11.png){width="5.4854254155730535in"
-height="4.207807305336833in"}
+![](media/image10.png)
 
 By this graph we can see that over the years TV-MA rating titles become
 very popular since 2017 and are requested a lot. Also, we can see that
@@ -195,8 +187,7 @@ very popular since 2017 and are requested a lot. Also, we can see that
 In addition, 2019 was the year with the highest number of movies and tv
 shows added.
 
-![](media/image12.png){width="5.4854254155730535in"
-height="4.207807305336833in"}
+![](media/image11.png)
 
 ```python
 ## CONTECT ADDED OVER THE YEARS
@@ -228,8 +219,7 @@ plt.show()
 
 ## **Overall Content Added Over the Months**
 
-![](media/image13.png){width="5.4854254155730535in"
-height="3.8606288276465444in"}
+![](media/image12.png)
 
 Looks like that near the end of the year is the time when Netflix adds
 new content and lots of them!
@@ -244,13 +234,13 @@ plt.title('Overall Content Added Over the Months')
 plt.show()
 ```
 
--   ![](media/image14.png){width="7.715277777777778in"
-    height="3.8208333333333333in"}**Distribution of Seasons of TV
-    Shows**
+## **Distribution of Seasons of TV Shows**
 
-> Looks like that every tv show has at least one season which is obvious
-> but a tv show to have more than one season become very rare. Close to
-> 1750 titles have one season but only approx. 500 titles got 2 seasons.
+![](media/image13.png)
+
+Looks like that every tv show has at least one season which is obvious but 
+a tv show to have more than one season become very rare. Close to
+1750 titles have one season but only approx. 500 titles got 2 seasons.
 
 ```python
 # Distribution of Seasons of TV Shows
@@ -266,22 +256,17 @@ plt.tight_layout()
 plt.show()
 ```
 
--   **Top Directors for Movies and TV Shows**
+## **Top Directors for Movies and TV Shows**
 
-> ![](media/image15.png){width="5.30445428696413in"
-> height="3.5029418197725284in"}
->
-> ![תמונה שמכילה טקסט, צילום מסך, גופן, מספר התיאור נוצר באופן
-> אוטומטי](media/image16.png){width="5.045858486439195in"
-> height="3.332169728783902in"}
->
-> ![תמונה שמכילה טקסט, צילום מסך, גופן, מספר התיאור נוצר באופן
-> אוטומטי](media/image17.png){width="4.64156605424322in"
-> height="3.0651848206474193in"}
->
-> As shown in the graphs, Rajiv made more than 20 titles overall. Rajiv
-> is also in the first place in the Top 15 Movies Directors. Alastair is
-> in the first place in Top 15 TV Shows Directors with 3 titles.
+![](media/image14.png)
+ 
+![](media/image15.png)
+
+![](media/image17.png)
+
+As shown in the graphs, Rajiv made more than 20 titles overall. Rajiv
+is also in the first place in the Top 15 Movies Directors. Alastair is
+in the first place in Top 15 TV Shows Directors with 3 titles.
 
 ```python
 ## Top Directors for Movies and TV Shows
