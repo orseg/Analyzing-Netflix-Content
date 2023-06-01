@@ -177,7 +177,7 @@ plt.tight_layout()
 plt.show()
 ```
 
-## 🔴 **Content added Over the Years**
+## 🔴 **Content Added Over the Years**
 
 ![](media/image10.png)
 
