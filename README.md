@@ -8,7 +8,7 @@ Using Netflix Dataset and Python
 -   Dataset used: [Netflix Movies and TV Shows from
     Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 
-**Technical Stuff:**
+## **Technical Stuff:**
 
 First and foremost, importing pandas and matplotlib.pyplot
 
