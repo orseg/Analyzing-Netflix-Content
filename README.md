@@ -263,7 +263,7 @@ plt.show()
  
 ![](media/image15.png)
 
-![](media/image17.png)
+![](media/image16.png)
 
 As shown in the graphs, Rajiv made more than 20 titles overall. Rajiv
 is also in the first place in the Top 15 Movies Directors. Alastair is
