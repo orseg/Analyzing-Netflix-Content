@@ -35,7 +35,7 @@ The dataframe looks something like this --
 ### :star: **Let's start!** :star: ###
 
 
-## :red_circle: **Distribution of Genres**
+## 🔴 **Distribution of Genres**
 
 ![](media/image2.png)
 
