@@ -32,7 +32,7 @@ The dataframe looks something like this --
 
 ![](media/image1.png)
 
-### :star: **Let's start!** :star: ###
+### **Let's start!** 🤘 ###
 
 
 ## 🔴 **Distribution of Genres**
@@ -111,7 +111,7 @@ type_counts.plot(kind='pie',autopct='%1.1f%%')
 plt.show()
 ```
 
-## :red_circle: **Country of Origin**
+## 🔴 **Country of Origin**
 
 ![](media/image6.png)
 
@@ -156,7 +156,7 @@ plt.title('Tv Shows and Movies from the US')
 
 ```
 
-## :red_circle: **Distribution of Ratings**
+## 🔴 **Distribution of Ratings**
 
 ![](media/image9.png)
 
@@ -177,7 +177,7 @@ plt.tight_layout()
 plt.show()
 ```
 
-## :red_circle: **Content added Over the Years**
+## 🔴 **Content added Over the Years**
 
 ![](media/image10.png)
 
@@ -218,7 +218,7 @@ plt.legend(title='Type')
 plt.show()
 ```
 
-## :red_circle: **Overall Content Added Over the Months**
+## 🔴 **Overall Content Added Over the Months**
 
 ![](media/image12.png)
 
@@ -235,7 +235,7 @@ plt.title('Overall Content Added Over the Months')
 plt.show()
 ```
 
-## :red_circle: **Distribution of Seasons of TV Shows**
+## 🔴 **Distribution of Seasons of TV Shows**
 
 ![](media/image13.png)
 
@@ -257,7 +257,7 @@ plt.tight_layout()
 plt.show()
 ```
 
-## :red_circle: **Top Directors for Movies and TV Shows**
+## 🔴 **Top Directors for Movies and TV Shows**
 
 ![](media/image14.png)
  
@@ -307,7 +307,7 @@ plt.tight_layout()
 plt.show()
 ```
 
-## :red_circle: **Conclusions**
+## 🔴 **Conclusions**
 
 As we saw in this exploratory data analysis --
 
