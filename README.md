@@ -322,3 +322,7 @@ As we saw in this exploratory data analysis --
 -   Netflix likes to add new content when we reach the end of the year.
 
 -   Not all TV shows get to see another season.
+
+<p align="center">
+    <a href="https://orseg.github.io">Home Page</a>
+</p>
