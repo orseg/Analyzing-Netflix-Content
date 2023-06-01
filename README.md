@@ -8,7 +8,7 @@ Using Netflix Dataset and Python
 -   Dataset used: [Netflix Movies and TV Shows from
     Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 
-## **Technical Stuff:**
+### **Technical Stuff:**
 
 First and foremost, importing pandas and matplotlib.pyplot
 
@@ -32,9 +32,10 @@ The dataframe looks something like this --
 
 ![](media/image1.png)
 
-**Let's start!**
+### :star: **Let's start!** :star: ###
 
-## **Distribution of Genres**
+
+## :red_circle: **Distribution of Genres**
 
 ![](media/image2.png)
 
@@ -110,7 +111,7 @@ type_counts.plot(kind='pie',autopct='%1.1f%%')
 plt.show()
 ```
 
-## **Country of Origin**
+## :red_circle: **Country of Origin**
 
 ![](media/image6.png)
 
@@ -155,7 +156,7 @@ plt.title('Tv Shows and Movies from the US')
 
 ```
 
-## **Distribution of Ratings**
+## :red_circle: **Distribution of Ratings**
 
 ![](media/image9.png)
 
@@ -176,7 +177,7 @@ plt.tight_layout()
 plt.show()
 ```
 
-## **Content added Over the Years**
+## :red_circle: **Content added Over the Years**
 
 ![](media/image10.png)
 
@@ -217,7 +218,7 @@ plt.legend(title='Type')
 plt.show()
 ```
 
-## **Overall Content Added Over the Months**
+## :red_circle: **Overall Content Added Over the Months**
 
 ![](media/image12.png)
 
@@ -234,7 +235,7 @@ plt.title('Overall Content Added Over the Months')
 plt.show()
 ```
 
-## **Distribution of Seasons of TV Shows**
+## :red_circle: **Distribution of Seasons of TV Shows**
 
 ![](media/image13.png)
 
@@ -256,7 +257,7 @@ plt.tight_layout()
 plt.show()
 ```
 
-## **Top Directors for Movies and TV Shows**
+## :red_circle: **Top Directors for Movies and TV Shows**
 
 ![](media/image14.png)
  
@@ -306,7 +307,7 @@ plt.tight_layout()
 plt.show()
 ```
 
-## **Conclusions**
+## :red_circle: **Conclusions**
 
 As we saw in this exploratory data analysis --
 
