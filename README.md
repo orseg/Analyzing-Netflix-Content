@@ -1,10 +1,10 @@
 # Analyzing-Netflix-Content
 
-## Exploratory Data Analysis Using Netflix Dataset and Python
+## Exploratory Data Analysis Using Netflix Dataset and `Python`.
 
--   Libraries used: pyplot from matplotlib, pandas.
+-   Libraries used: `pyplot` from `matplotlib`, `pandas`.
 
--   IDE used: Spyder
+-   IDE used: `Spyder`
 
 -   Dataset used: [Netflix Movies and TV Shows from
     Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows)
