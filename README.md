@@ -1,6 +1,6 @@
 # Analyzing-Netflix-Content
 
-## Exploratory Data Analysis Using Netflix Dataset and `Python`.
+## Exploratory Data Analysis Using Netflix Dataset and Python
 
 -   Libraries used: `pyplot` from `matplotlib`, `pandas`.
 
